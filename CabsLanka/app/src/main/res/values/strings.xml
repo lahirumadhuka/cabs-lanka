@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cabs Lanka</string>
+    <string name="forgotPW"><u>Forgot password?</u></string>
+    <string name="login"><u>Already have an account?</u></string>
+    <string name="website"><u>https://www.cabslanka.lk</u></string>
+    <string name="phoneNo"><u>0763471452</u></string>
+    <string name="deleteAccount"><u>Delete Your Account</u></string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+    <string name="title_activity_select_location">SelectLocationActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="err_name">Please enter your name</string>
+    <string name="err_email">Please enter your email address</string>
+    <string name="err_tel">Please enter your phone no</string>
+    <string name="err_address">Please enter your address</string>
+    <string name="err_pw">
+        Weak password ⚠️
+            \n\n\t\t\u25CF Use at least 8 characters
+            \n\t\t\u25CF Use upper and lower case \n\t\t\t characters
+            \n\t\t\u25CF Use 1 or more numbers
+            \n\t\t\u25CF Use special characters
+    </string>
+    <string name="err_confirmPW">Please re-enter the password</string>
+    <string name="err_loginPW">Please enter your password</string>
+
+</resources>
